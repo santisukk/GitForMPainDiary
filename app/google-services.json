@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "496544402226",
+    "firebase_url": "https://mpaindiary.firebaseio.com",
+    "project_id": "mpaindiary",
+    "storage_bucket": "mpaindiary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496544402226:android:6d881b8a7a82503b",
+        "android_client_info": {
+          "package_name": "kku.mhealth.hackathon.mpaindiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496544402226-sp89bmg32107h4797oj145h1v2bptf2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kku.mhealth.hackathon.mpaindiary",
+            "certificate_hash": "3F3D938A5DC705122D1C6148BA981A683CAB9F31"
+          }
+        },
+        {
+          "client_id": "496544402226-7q8luov15bjcbm9fd7f6rrpe7k1876hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB6eOyuDLwylGzHZOyx1pKDpnZNz-i_ZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496544402226-7q8luov15bjcbm9fd7f6rrpe7k1876hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
