@@ -4,4 +4,13 @@
     <string name="passswordTxt">Password</string>
     <string name="signInBtn">Sign In</string>
     <string name="signUpBtn">Sign Up</string>
+    <string name="title_activity_main_patient">MainPatientActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="namePatient">Surname Lastname</string>
+    <string name="emailKey"></string>
+    <string name="passwordKey"></string>
 </resources>
