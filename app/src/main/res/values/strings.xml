@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MPainDiary</string>
+    <string name="emailTxt">Email</string>
+    <string name="passswordTxt">Password</string>
+    <string name="signInBtn">Sign In</string>
+    <string name="signUpBtn">Sign Up</string>
 </resources>
